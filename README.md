@@ -1,5 +1,12 @@
 
-Im Bitu Pathak
+<h3>👨‍💻 About Me</h3>
+
+<p>
+Hi, I'm <b>Bitu Pathakk</b>, a passionate Full-Stack MERN Developer and B.Tech CSE student.  
+I love building modern web applications with clean UI/UX and scalable backend systems using React.js, Node.js, Express.js, and MongoDB.  
+Currently,
+  I’m focused on improving my skills in MERN Stack development, APIs, and real-world production-level projects.
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/bitu-pathak) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bp2817433@gmail.com) 
 
